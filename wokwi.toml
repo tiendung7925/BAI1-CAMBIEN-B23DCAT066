@@ -1,0 +1,7 @@
+[wokwi]
+
+version = 1
+
+firmware = "build/esp32.esp32.esp32doit-devkit-v1/BAI1-CAMBIEN-B23DCAT066.ino.bin"
+
+elf = "build/esp32.esp32.esp32doit-devkit-v1/BAI1-CAMBIEN-B23DCAT066.ino.elf"
